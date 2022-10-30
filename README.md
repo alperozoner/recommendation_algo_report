@@ -2,7 +2,6 @@
 An algorithm performance report on the itemKNN algorithm using collaborative filtering paradigm as the learning method. I created this report during my summer internship at B2BPlanet.com
 
 ## SUMMARY & USAGE LICENSE
-=============================================
 
 Book Crossing dataset were collected by Cai-Nicolas Ziegler in a 4-week crawl (August / September 2004) 
 from the Book-Crossing community with kind permission from Ron Hornbaker, CTO of Humankind Systems. 
