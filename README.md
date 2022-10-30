@@ -1,5 +1,5 @@
 # recommendation_algo_report
-An algorithm performance report on the itemKNN algorithm using collaborative filtering paradigm as the learning method. I created this report during my summer internship at B2BPlanet.com
+An algorithm performance report on the itemKNN algorithm using collaborative filtering paradigm as the learning method. I created this report during my summer internship at B2BPlanet.com. The models were created with open-source code provided by Arthur Fortes under MIT License. (See LICENSE.txt in root directory.)
 
 ## SUMMARY & USAGE LICENSE
 
